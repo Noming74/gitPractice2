@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1c0712b-ded7-439b-9037-b380d12f1408" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_01/addCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,9 +32,22 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.addCommand">
+  <component name="RunManager" selected="Application.HappyBirthday">
     <configuration name="AllGood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_01.AllGood" />
+      <module name="gitPractice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HappyBirthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_01.HappyBirthday" />
       <module name="gitPractice2" />
       <extension name="coverage">
         <pattern>
@@ -63,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HappyBirthday" />
         <item itemvalue="Application.addCommand" />
         <item itemvalue="Application.AllGood" />
       </list>
@@ -82,25 +94,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="550" height="180" key="GridCell.Tab.0.bottom" timestamp="1588101654349">
+    <state width="550" height="180" key="GridCell.Tab.0.bottom" timestamp="1588296519934">
       <screen x="0" y="23" width="1280" height="729" />
     </state>
-    <state width="550" height="180" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1588101654349" />
+    <state width="550" height="180" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1588296519934" />
     <state width="550" height="180" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1587754828574" />
-    <state width="550" height="180" key="GridCell.Tab.0.center" timestamp="1588101654347">
+    <state width="550" height="180" key="GridCell.Tab.0.bottom/0.23.1280.731@0.23.1280.731" timestamp="1588104316401" />
+    <state width="550" height="180" key="GridCell.Tab.0.center" timestamp="1588296519933">
       <screen x="0" y="23" width="1280" height="729" />
     </state>
-    <state width="550" height="180" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1588101654347" />
+    <state width="550" height="180" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1588296519933" />
     <state width="550" height="180" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1587754828570" />
-    <state width="550" height="180" key="GridCell.Tab.0.left" timestamp="1588101654345">
+    <state width="550" height="180" key="GridCell.Tab.0.center/0.23.1280.731@0.23.1280.731" timestamp="1588104316400" />
+    <state width="550" height="180" key="GridCell.Tab.0.left" timestamp="1588296519932">
       <screen x="0" y="23" width="1280" height="729" />
     </state>
-    <state width="550" height="180" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1588101654345" />
+    <state width="550" height="180" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1588296519932" />
     <state width="550" height="180" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1587754828568" />
-    <state width="550" height="180" key="GridCell.Tab.0.right" timestamp="1588101654348">
+    <state width="550" height="180" key="GridCell.Tab.0.left/0.23.1280.731@0.23.1280.731" timestamp="1588104316399" />
+    <state width="550" height="180" key="GridCell.Tab.0.right" timestamp="1588296519933">
       <screen x="0" y="23" width="1280" height="729" />
     </state>
-    <state width="550" height="180" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1588101654348" />
+    <state width="550" height="180" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1588296519933" />
     <state width="550" height="180" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1587754828571" />
+    <state width="550" height="180" key="GridCell.Tab.0.right/0.23.1280.731@0.23.1280.731" timestamp="1588104316401" />
+    <state x="718" y="23" width="489" height="729" key="new project wizard" timestamp="1588962625984">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="718" y="23" width="489" height="729" key="new project wizard/0.23.1280.729@0.23.1280.729" timestamp="1588962625984" />
   </component>
 </project>
